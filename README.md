@@ -9,3 +9,6 @@ My KWGT widgets I use personally.
 
 ## iMC - Music Center
 ![iMC_by_LIppen.kwgt.png](docs/assets/iMC_by_LIppen.kwgt.png)
+
+## iBC - Bus Center
+![iBC_by_LIppen.kwgt.png](docs/assets/iBC_by_LIppen.kwgt.png)
